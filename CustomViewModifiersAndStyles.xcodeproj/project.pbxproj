@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomViewModifiersAndStyles.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = CustomViewModifiersAndStyles.app; path = "/Users/leonchamoun/Desktop/3 - Projekte/CustomViewModifiers/build/Debug-iphoneos/CustomViewModifiersAndStyles.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiers */,
-				C39FB5EF2D29BFB10047C3A7 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		C39FB5EF2D29BFB10047C3A7 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = C39FB5E52D29BFB10047C3A7;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C39FB5EF2D29BFB10047C3A7 /* Products */;
+			productRefGroup = C39FB5E52D29BFB10047C3A7;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
