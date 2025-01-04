@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomViewModifiers.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomViewModifiersAndStyles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		C39FB5EF2D29BFB10047C3A7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiers.app */,
+				C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C39FB5ED2D29BFB10047C3A7 /* CustomViewModifiers */ = {
+		C39FB5ED2D29BFB10047C3A7 /* CustomViewModifiersAndStyles */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C39FB5FC2D29BFB20047C3A7 /* Build configuration list for PBXNativeTarget "CustomViewModifiers" */;
+			buildConfigurationList = C39FB5FC2D29BFB20047C3A7 /* Build configuration list for PBXNativeTarget "CustomViewModifiersAndStyles" */;
 			buildPhases = (
 				C39FB5EA2D29BFB10047C3A7 /* Sources */,
 				C39FB5EB2D29BFB10047C3A7 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiers */,
 			);
-			name = CustomViewModifiers;
+			name = CustomViewModifiersAndStyles;
 			packageProductDependencies = (
 			);
 			productName = CustomViewModifiers;
-			productReference = C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiers.app */;
+			productReference = C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C39FB5E92D29BFB10047C3A7 /* Build configuration list for PBXProject "CustomViewModifiers" */;
+			buildConfigurationList = C39FB5E92D29BFB10047C3A7 /* Build configuration list for PBXProject "CustomViewModifiersAndStyles" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C39FB5ED2D29BFB10047C3A7 /* CustomViewModifiers */,
+				C39FB5ED2D29BFB10047C3A7 /* CustomViewModifiersAndStyles */,
 			);
 		};
 /* End PBXProject section */
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C39FB5E92D29BFB10047C3A7 /* Build configuration list for PBXProject "CustomViewModifiers" */ = {
+		C39FB5E92D29BFB10047C3A7 /* Build configuration list for PBXProject "CustomViewModifiersAndStyles" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C39FB5FA2D29BFB20047C3A7 /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C39FB5FC2D29BFB20047C3A7 /* Build configuration list for PBXNativeTarget "CustomViewModifiers" */ = {
+		C39FB5FC2D29BFB20047C3A7 /* Build configuration list for PBXNativeTarget "CustomViewModifiersAndStyles" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C39FB5FD2D29BFB20047C3A7 /* Debug */,
