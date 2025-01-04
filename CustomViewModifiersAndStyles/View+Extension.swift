@@ -12,19 +12,6 @@ extension View {
     /// Functions for creating custom view modifiers.
     /// Source: https://developer.apple.com/documentation/swiftui/viewmodifier
     
-    /// Applies a platform-specific navigation modifier.
-    ///
-    /// This function adds a modifier to handle navigation behavior based on the platform (iOS or macOS).
-    ///
-    /// - Parameters:
-    ///   - isPresented: A binding that determines whether the destination view is presented.
-    ///   - destination: A closure that creates the destination view.
-    /// - Returns: A view with the platform-specific navigation behavior applied.
-    func specificNavigation<Destination: View>(isPresented: Binding<Bool>,
-                                               destination: @escaping () -> Destination) -> some View {
-        modifier(PlatformSpecificNavigationModifier(isPresented: isPresented, destination: destination))
-    }
-    
     /// Adds a press effect to the view.
     ///
     /// This function applies a modifier that visually indicates when a view is pressed.
