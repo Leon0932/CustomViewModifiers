@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = CustomViewModifiersAndStyles.app; path = "/Users/leonchamoun/Desktop/3 - Projekte/CustomViewModifiers/build/Debug-iphoneos/CustomViewModifiersAndStyles.app"; sourceTree = "<absolute>"; };
+		C39FB6482D29C53F0047C3A7 /* CustomViewModifiersAndStyles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomViewModifiersAndStyles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiersAndStyles */,
+				C39FB6482D29C53F0047C3A7 /* CustomViewModifiersAndStyles.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = CustomViewModifiers;
-			productReference = C39FB5EE2D29BFB10047C3A7 /* CustomViewModifiersAndStyles.app */;
+			productReference = C39FB6482D29C53F0047C3A7 /* CustomViewModifiersAndStyles.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -242,7 +243,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CustomViewModifiers/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CustomViewModifiersAndStyles/Preview Content\"";
 				DEVELOPMENT_TEAM = H32DUB5NQD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -271,7 +272,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CustomViewModifiers/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CustomViewModifiersAndStyles/Preview Content\"";
 				DEVELOPMENT_TEAM = H32DUB5NQD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
