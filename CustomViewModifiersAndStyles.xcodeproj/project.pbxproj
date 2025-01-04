@@ -16,6 +16,11 @@
 			path = CustomViewModifiersAndStyles;
 			sourceTree = "<group>";
 		};
+		C39FB6492D29CC850047C3A7 /* Assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Assets;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +39,7 @@
 			children = (
 				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiersAndStyles */,
 				C39FB6482D29C53F0047C3A7 /* CustomViewModifiersAndStyles.app */,
+				C39FB6492D29CC850047C3A7 /* Assets */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +60,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiersAndStyles */,
+				C39FB6492D29CC850047C3A7 /* Assets */,
 			);
 			name = CustomViewModifiersAndStyles;
 			packageProductDependencies = (
