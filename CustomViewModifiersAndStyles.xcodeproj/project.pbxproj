@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C39FB5F02D29BFB10047C3A7 /* CustomViewModifiers */ = {
+		C39FB5F02D29BFB10047C3A7 /* CustomViewModifiersAndStyles */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CustomViewModifiers;
+			path = CustomViewModifiersAndStyles;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		C39FB5E52D29BFB10047C3A7 = {
 			isa = PBXGroup;
 			children = (
-				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiers */,
+				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiersAndStyles */,
 			);
 			sourceTree = "<group>";
 		};
@@ -52,7 +52,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiers */,
+				C39FB5F02D29BFB10047C3A7 /* CustomViewModifiersAndStyles */,
 			);
 			name = CustomViewModifiersAndStyles;
 			packageProductDependencies = (
